@@ -3,7 +3,7 @@
 I'm a dedicated programmer deeply interested in the art of low-level programming, binary exploitation, and the ever-evolving field of cybersecurity. 
 As I pursue my studies at 🌱 1337 Coding School 🌱, I bring a diverse perspective shaped by my bachelor's degree in management. With a penchant for C programming, I enjoy diving into the depths of code to unravel its secrets. 🔭
 
-- 🔭 I’m currently working on 42 School cursus
+- 🔭 I’m currently working on 42 School cursus (common core)
 
 #### Step into my world on GitHub, and let's push the boundaries together. 👯
 <!--
