@@ -1,19 +1,37 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hey%2C+Fellow+developers!+%F0%9F%91%8B;)](https://git.io/typing-svg)
+```
+███╗   ███╗██╗   ██╗███████╗██╗  ██╗██╗ ██████╗  █████╗ ██████╗  ██████╗ ██╗   ██╗
+████╗ ████║██║   ██║██╔════╝██║  ██║██║██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗██║   ██║
+██╔████╔██║██║   ██║███████╗███████║██║██║  ███╗███████║██████╔╝██║   ██║██║   ██║
+██║╚██╔╝██║██║   ██║╚════██║██╔══██║██║██║   ██║██╔══██║██╔══██╗██║   ██║██║   ██║
+██║ ╚═╝ ██║╚██████╔╝███████║██║  ██║██║╚██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
+```
+
+</div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,bash,linux" />
+  </div>
+<br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres" />
+  </div>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
+  </div>
+<br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,bootstrap,md" />
+  </div>
+<br>
 
 </div>
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeakedByteBuster&show_icons=true&theme=radical)
-
-</div>
-
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=github,git,bash,md,cpp,c,linux,ps" />
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeakedByteBuster&show_icons=true&theme=radical)
 </div>
 
 <!--
