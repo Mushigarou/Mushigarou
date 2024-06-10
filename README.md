@@ -1,34 +1,22 @@
 
-<div align="center">
-
-```
-        ███╗   ███╗██╗   ██╗███████╗██╗  ██╗██╗ ██████╗  █████╗ ██████╗  ██████╗ ██╗   ██╗
-        ████╗ ████║██║   ██║██╔════╝██║  ██║██║██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗██║   ██║
-        ██╔████╔██║██║   ██║███████╗███████║██║██║  ███╗███████║██████╔╝██║   ██║██║   ██║
-        ██║╚██╔╝██║██║   ██║╚════██║██╔══██║██║██║   ██║██╔══██║██╔══██╗██║   ██║██║   ██║
-        ██║ ╚═╝ ██║╚██████╔╝███████║██║  ██║██║╚██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝
-        ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
-```
-
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </div>
+<br>
 </div>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,bash,linux" />
   </div>
 <br>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,postgres" />
-  </div>
-<br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,react,nextjs" />
   </div>
 <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css,bootstrap,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,md" />
   </div>
 <br>
 
-</div>
 <div align="center">
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeakedByteBuster&show_icons=true&theme=radical)
