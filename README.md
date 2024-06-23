@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeakedByteBuster&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mushigarou&show_icons=true&theme=radical)
 </div>
 
 <!--
