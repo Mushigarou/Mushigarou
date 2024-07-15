@@ -1,19 +1,15 @@
 
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </div>
-<br>
-</div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,bash,linux" />
-  </div>
-<br>
-<div align="center">
+<div align="center"">
     <img src="https://skillicons.dev/icons?i=figma,html,css,bootstrap,react,nextjs" />
   </div>
 <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
+  </div>
+<br>
+</div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,postgres,md" />
   </div>
 <br>
 
